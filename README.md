@@ -3,7 +3,7 @@
  -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepesh</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">I'm walking on the path of becoming Web Developer</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -64,7 +64,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://twitter.com/deepeshsharma48"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/deepeshsharmaofficial/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/DeepeshSharma48"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
