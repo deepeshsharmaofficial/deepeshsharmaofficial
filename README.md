@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Frontend Mentor Challenges](https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5ajl)**
+- 🔭 I’m currently working on **[Frontend Mentor Challenges](https://github.com/deepeshsharmaofficial/Frondend-Mentor-Challenge)**
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -69,7 +69,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/deepeshsharmaofficial/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=deepeshsharmaofficial">
 </a>
 <a href="https://github.com/deepeshsharmaofficial?tab=followers"><img src="https://img.shields.io/github/followers/deepeshsharmaofficial?label=Followers&style=social" alt="GitHub Badge"></a>
