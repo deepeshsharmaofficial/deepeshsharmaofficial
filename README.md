@@ -8,13 +8,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Frontend Mentor Challenges](https://github.com/deepeshsharmaofficial/Frondend-Mentor-Challenge)**
+- 🔭 I’m currently working on **[Codeial (Social Media Web Application)](https://github.com/deepeshsharmaofficial/codeial)**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
+<!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
 
 - 📫 How to reach me **deep92112018@gmail.com**
 
@@ -24,14 +24,18 @@
 
 <!-- https://icons8.com/ for icons-->
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="./logo/c++.png"/> </a>
     <!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a style="padding:0 4px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./logo/jquery.png"/> </a>
+    <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+    <a style="padding-left:8px;" href="https://expressjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/express-js.png" style="background-color: white; border-radius: 100%"> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
+    <a href="https://mongoosejs.com/" target="_blank"> <img src="./logo/mongoose.png" style="height:50px"> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <!-- <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  -->
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 </p>
 
