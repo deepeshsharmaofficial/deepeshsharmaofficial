@@ -60,7 +60,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/deepeshsharmaofficial/github-readme-activity-graph"><img alt="Deepesh Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deepeshsharmaofficial&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Deepesh Sharma's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=deepeshsharmaofficial&bg_color=070b0e&color=9f9f9f&line=ffffff&point=00e7ff&area=true&hide_border=true" /></a>
 
 <br/>
 <br/>
